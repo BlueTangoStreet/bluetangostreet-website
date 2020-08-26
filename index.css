@@ -5,7 +5,7 @@ body, html {
 
 .bgimg {
   /* Background image */
-  background-image: url('/BTS-header.001.jpeg');
+  background-image: url('BTS-header.001.jpeg');
   /* Full-screen */
   height: 100%;
   /* Center the background image */
