@@ -1030,8 +1030,9 @@
 		min-height: 100%;
 		padding: 1.5em;
 		z-index: 2;
-        background-color: #21618C;
+        background-color: black;
 	}
+
 
 		#wrapper > * {
 			z-index: 1;
